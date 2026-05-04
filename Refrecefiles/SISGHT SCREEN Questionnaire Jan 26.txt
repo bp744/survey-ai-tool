@@ -1,0 +1,115 @@
+SISGHT SCREEN – CRICKET ASSOCIATION RESEARCH
+
+Q1.
+This is a short survey. Please click NEXT if you wish to participate.
+
+Q2.
+Please select your Gender. [SS]
+
+Male
+Female
+
+Q3.
+Please enter your Age in complete years. [Numeric OE]
+Disqualify if less than 18 years
+
+Q4.
+Which of these sports did you watch a live broadcast of in the last one month? [MS, Randomize]
+
+Cricket (Disqualify if not selected)
+Soccer
+Formula 1 Racing
+Hockey
+Badminton
+Tennis
+Kabaddi
+None of these [Disqualify]
+
+Q5.
+Where did you generally watch cricket live match? [SS, Randomize]
+
+Mobile only
+Television Only
+Both on Mobile & TV
+
+Q6. Ask if coded 2 / 3 in Q5
+On which TV channel or medium do you generally watch cricket live match? [SS, Randomize]
+
+TV Channel like Star Sports
+On smart TV using OTT app like Jio Hotstar
+
+Q7.
+When you think of cricket, which is the first brand or company that comes to you mind? Write only one brands or company. [OE]
+
+Q8.
+When you think of cricket, which other brands or companies come to your mind? Please write at least 3 brands or companies [OE – multi box]
+
+Q9.
+Who is your most favorite Indian cricket player? [OE]
+
+Q10.
+Which brands do you associate as “COLOR PARTNER” for cricket or Indian cricket? Write only one brands or company. [SS, Randomize]
+
+Asian Paints
+Dulux
+Birla Opus
+Nerolac
+Apollo Tyres
+Adidas
+MRF Tyres
+TATA
+Airtel
+Cadbury
+CEAT Tyres
+UltraTech Cement
+Kingfisher
+Rapido
+None of these
+
+Q11.
+Which Indian Cricket player is associated with Asian Paints? [OE]
+
+Q12.
+Are you the main earner in the house? [SS]
+
+Yes
+No
+
+IF “YES” GO TO Q13
+IF “NO” ASK BOTH Q13 AND Q14
+
+Q13.
+What is your highest level of education? [SS]
+
+Grad, Post-grad: Professional
+Grad, Post-grad: General
+Some college, but not graduate
+SSC / HSC
+School – 5 to 9 years
+School – Up to 4 years
+No formal education
+
+Q14.
+What is your highest level of education of the main earner in your household? [SS]
+
+Grad, Post-grad: Professional
+Grad, Post-grad: General
+Some college, but not graduate
+SSC / HSC
+School – 5 to 9 years
+School – Up to 4 years
+No formal education
+
+Q15.
+Which of these do you have at your home?
+
+Refrigerator
+Washing Machine
+Two-wheeler
+Personal Computer/Laptop
+Four-wheeler
+Air Conditioner
+
+Q16.
+Thank you for answering. Please click on SUBMIT to close the survey.
+[SUBMIT]

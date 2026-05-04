@@ -1,0 +1,74 @@
+# Example Survey Document (Professional Format)
+
+This is an example survey using the professional format that the analyzer supports.
+
+## Sample Survey Questions
+
+Q1.
+This is a short survey. Please click NEXT if you wish to participate. [OE]
+
+Yes, proceed with survey
+
+Q2.
+Please select your Gender. [SS]
+
+Male
+Female
+Other
+Prefer not to specify
+
+Q3.
+Please enter your Age in complete years. [Numeric OE]
+Disqualify if less than 18 years
+
+Q4.
+Which of these sports did you watch a live broadcast of in the last one month? [MS, Randomize]
+
+Cricket (Disqualify if not selected)
+Soccer
+Formula 1 Racing
+Hockey
+Badminton
+Tennis
+Kabaddi
+None of these [Disqualify]
+
+Q5.
+Where did you generally watch cricket live match? [SS, Randomize]
+
+Mobile only
+Television Only
+Both on Mobile & TV
+
+Q6.
+How satisfied were you with the viewing experience? [SS]
+
+Very Satisfied
+Satisfied
+Neutral
+Dissatisfied
+Very Dissatisfied
+
+Q7.
+Which features would you like to see improved? [MS]
+
+Higher video quality
+More camera angles
+Better commentary options
+Replay functionality
+Interactive stats
+Mobile app improvements
+
+Q8.
+How likely are you to watch cricket again in the next month? [SS]
+
+Extremely likely
+Very likely
+Somewhat likely
+Not very likely
+Not at all likely
+
+Q9.
+Any additional feedback or comments? [OE]
+
+Please share your thoughts here.
